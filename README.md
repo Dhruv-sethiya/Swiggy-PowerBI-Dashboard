@@ -78,8 +78,7 @@ The dashboard uses DAX measures including:
 
 ## 📷 Dashboard Preview
 
-![Swiggy Executive Dashboard](Swiggy%20Order%20Dataset%20project/screenshot/Swiggy%20Order%20Dataset%20project_4_235623.png)
-
+![Swiggy Executive Dashboard](Swiggy%20Order%20Dataset%20project/screenshot/Screenshot%202026-08-14%20235623.png)
 ## 💡 Key Insights
 
 - The dataset contains more than 1 million orders.
