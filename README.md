@@ -79,6 +79,10 @@ The dashboard uses DAX measures including:
 ## 📷 Dashboard Preview
 
 ![Swiggy Executive Dashboard](Swiggy%20Order%20Dataset%20project/screenshot/Screenshot%202026-08-14%20235623.png)
+
+## 📥 Download Power BI File
+
+[Download Swiggy Power BI Dashboard (.pbix)](https://github.com/Dhruv-sethiya/Swiggy-PowerBI-Dashboard/releases/tag/v1.0.0)
 ## 💡 Key Insights
 
 - The dataset contains more than 1 million orders.
