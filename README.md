@@ -76,9 +76,9 @@ The dashboard uses DAX measures including:
 - Data Visualization
 - Interactive Slicers
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
-![Swiggy Executive Dashboard](Swiggy%20Order%20Dataset%20project/screenshot/Screenshot%202026-08-14%20235623.png)
+![Swiggy Power BI Executive Dashboard](screenshots/swiggy-dashboard-overview.png)
 
 ## 📥 Download Power BI File
 
