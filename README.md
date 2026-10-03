@@ -56,16 +56,12 @@ The main objectives of this project are to:
 - Gender filter
 - Date/Year filter
 
-## 🧮 DAX Measures
+## 🧮 Documentation
 
-The dashboard uses DAX measures including:
+Detailed project documentation is available here:
 
-- Total Orders
-- Total Revenue
-- Average Order Value
-- Average Delivery Time
-- Average Customer Rating
-- Total Customers
+- [DAX Measures](documentation/dax-measures.md)
+- [Data Dictionary](documentation/data-dictionary.md)
 
 ## 🛠️ Tools & Technologies
 
@@ -76,13 +72,14 @@ The dashboard uses DAX measures including:
 - Data Visualization
 - Interactive Slicers
 
-## Dashboard Preview
+## 🖼️ Dashboard Preview
 
-![Swiggy Power BI Executive Dashboard](screenshots/swiggy-dashboard-overview.png)
+![Swiggy Power BI Executive Dashboard](Swiggy%20Order%20Dataset%20project/screenshot/Swiggy%20Order%20Dataset%20project_4_235623.png)
 
 ## 📥 Download Power BI File
 
 [Download Swiggy Power BI Dashboard (.pbix)](https://github.com/Dhruv-sethiya/Swiggy-PowerBI-Dashboard/releases/tag/v1.0.0)
+
 ## 💡 Key Insights
 
 - The dataset contains more than 1 million orders.
@@ -103,6 +100,12 @@ Swiggy-PowerBI-Dashboard/
 ├── README.md
 ├── .gitattributes
 │
+├── documentation/
+│   ├── README.md
+│   ├── dax-measures.md
+│   └── data-dictionary.md
+│
 └── Swiggy Order Dataset project/
     └── screenshot/
         └── Swiggy Order Dataset project_4_235623.png
+```
