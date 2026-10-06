@@ -74,7 +74,7 @@ Detailed project documentation is available here:
 
 ## 🖼️ Dashboard Preview
 
-![Swiggy Power BI Executive Dashboard](Swiggy%20Order%20Dataset%20project/screenshot/Swiggy%20Order%20Dataset%20project_4_235623.png)
+![Swiggy Power BI Executive Dashboard](Swiggy%20Order%20Dataset%20project/screenshot/Screenshot%202026-08-14%20235623.png)
 
 ## 📥 Download Power BI File
 
@@ -106,6 +106,6 @@ Swiggy-PowerBI-Dashboard/
 │   └── data-dictionary.md
 │
 └── Swiggy Order Dataset project/
-    └── screenshot/
-        └── Swiggy Order Dataset project_4_235623.png
+└── screenshot/
+    └── Screenshot 2026-08-14 235623.png
 ```
